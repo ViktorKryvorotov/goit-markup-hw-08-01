@@ -1288,7 +1288,7 @@ img {
           justify-content: center;
   gap: 30px;
 }
-@media screen and (min-width: 768px) and (max-width: 1199px) {
+@media screen and (min-width: 768px) {
   .project {
     display: -webkit-box;
     display: -ms-flexbox;
